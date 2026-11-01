@@ -3,7 +3,7 @@
 * **Duración planificada / grabada:** 12:00 minutos.
 * **Público objetivo:** Estudiantes de secundaria (12 a 17 años) sin conocimientos previos de programación.
 * **Herramienta demostrada:** Editor en línea CodePen ([codepen.io](https://codepen.io)) sin descargas ni instalaciones.
-* **Regla de estilo:** Cero mención a nombres propios, integrantes o marcas de equipo. Lenguaje accesible, visual y entusiasta, con demostración práctica en vivo y pausas activas.
+* **Regla de estilo:** Cero mención a nombres propios, integrantes o marcas de equipo. Lenguaje accesible, visual y entusiasta, con demostración práctica en vivo y ritmo fluido continuo.
 
 ---
 
@@ -15,7 +15,7 @@
 | 01:15 - 03:00 | Anatomía de una regla CSS | Explicación en CodePen de la sintaxis: selector, propiedad, valor y punto y coma. Primera regla en vivo con `body`. |
 | 03:00 - 05:15 | Selectores esenciales (Etiqueta, Clase e ID) | Demostración de selectores de tipo (`h1`), clases (`.tarjeta-perfil`) e identificadores (`#titulo-nombre`). |
 | 05:15 - 07:30 | Tipografía, colores y jerarquía | Cambio de tipografía predeterminada a fuente sin serifa (*sans-serif*), uso de nombres y códigos hexadecimales para colores. |
-| 07:30 - 09:30 | Espaciado y Modelo de Caja (Padding, Margin, Bordes) | Transformación del contenedor plano en una tarjeta flotante. Centrado con `margin: 0 auto` y recorte circular con `border-radius: 50%`. **Pausa activa para practicar**. |
+| 07:30 - 09:30 | Espaciado y Modelo de Caja (Padding, Margin, Bordes) | Transformación del contenedor plano en una tarjeta flotante. Centrado con `margin: 0 auto` y recorte circular con `border-radius: 50%`. Demostración práctica continua. |
 | 09:30 - 11:00 | Interactividad con `:hover` | Añadir interactividad al botón y a la tarjeta cuando el cursor pasa por encima. |
 | 11:00 - 12:00 | Errores comunes de principiantes y Cierre | Consejos para no olvidar el `;` ni el punto de las clases. Invitación a la siguiente lección. |
 
@@ -187,20 +187,15 @@ body {
 ```
 
 **Locución:**
-> "Al aplicar `border-radius: 50%` sobre una imagen con el mismo ancho y alto, la convertimos instantáneamente en un círculo, y le agregamos un borde azul de 4 píxeles que la enmarca de forma impecable.
->
-> **[Pausa activa para la práctica]:**
-> En este momento, ponle pausa al video durante un par de minutos. Abre tu CodePen, ingresa a la regla `.imagen-avatar` o al `body`, e intenta cambiar el color del borde o del fondo por tu color favorito. ¡Prueba sin miedo y dale tu propio estilo!"
+> "Al aplicar `border-radius: 50%` sobre una imagen con el mismo ancho y alto, la convertimos instantáneamente en un círculo, y le agregamos un borde azul de 4 píxeles que la enmarca de forma impecable. Con esto, nuestra tarjeta ya tiene forma, orden y una presentación sumamente limpia."
 
 ---
 
 ### [09:30 - 11:00] Parte 5: Botón Interactivo y Pseudo-clases (`:hover`)
-**[En pantalla: Se reanuda el video. Se muestra el botón en la parte inferior de la tarjeta y se escribe su regla].**
+**[En pantalla: Se muestra el botón en la parte inferior de la tarjeta y se pasa a escribir su regla en el panel CSS].**
 
 **Locución:**
-> "¿Pausaste el video y lograste cambiar tus colores? ¡Excelente! Continuemos.
->
-> Toda buena tarjeta digital necesita un llamado a la acción. En nuestro HTML tenemos un `<button>` con la clase `.boton-conectar`. Por defecto, los botones del navegador se ven grises y anticuados.
+> "Ahora que la tarjeta luce estructurada, pasemos al siguiente elemento fundamental: el llamado a la acción. En nuestro HTML tenemos un `<button>` con la clase `.boton-conectar`. Por defecto, los botones del navegador se ven grises y anticuados.
 >
 > Vamos a diseñar un botón moderno:"
 
