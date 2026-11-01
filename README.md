@@ -31,9 +31,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Aprende los fundamentos de CSS para transformar una página plana en una tarjeta visualmente atractiva con colores, tipografías modernas, modelo de caja y efectos interactivos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección](https://youtu.be/xIDUW_j91-M)
 - **Consejos clave**: Anatomía `selector { propiedad: valor; }`; selectores de etiqueta y clase; centrado con `margin: 0 auto`; espaciado con `padding`; interacción con `.boton-conectar:hover`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) 👈 **¡No es necesario registrarse!**
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
@@ -56,7 +56,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo y tarjeta con CSS | [CodePen](https://codepen.io/pen/) |
+| 4 | Estilo y tarjeta con CSS | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
@@ -71,7 +71,7 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202620  
 1ASI0730 Aplicaciones Web  
-NRC [Número de NRC]  
+NRC [7769]  
 **Nombre del equipo**: AgriDron  
 **Líder del equipo**: [Nombres y Apellidos del líder]  
 **Integrantes del equipo**:  

@@ -4,7 +4,7 @@ Este documento sirve como guía para la lección práctica y contiene las planti
 
 ---
 
-## 🎯 Objetivo de la Lección
+## Objetivo de la Lección
 Aprender los fundamentos del diseño web visual utilizando **CSS** (*Cascading Style Sheets*):
 1. **Comprender qué es CSS y su rol:** Transformar la estructura básica de HTML en una experiencia visual atractiva.
 2. **Sintaxis y reglas de CSS:** Selectores, propiedades y valores.
@@ -13,7 +13,7 @@ Aprender los fundamentos del diseño web visual utilizando **CSS** (*Cascading S
 
 ---
 
-## 💡 Conceptos Clave
+## Conceptos Clave
 
 ### 1. ¿Qué es CSS?
 Si **HTML** representa los cimientos y el esqueleto de una casa (las paredes, puertas y habitaciones), **CSS** es la pintura, la decoración, el estilo y los acabados que hacen que luzca moderna y agradable.
@@ -49,9 +49,9 @@ selector {
 
 ---
 
-## 💻 Código Inicial (Starter)
+## Código Inicial (Starter)
 
-Abre [CodePen.io](https://codepen.io/pen/) y copia el código correspondiente en cada panel:
+Abre [CodePen.io](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) y copia el código correspondiente en cada panel:
 
 ### Panel HTML
 ```html
@@ -174,7 +174,7 @@ body {
 
 ---
 
-## 🚀 Retos Prácticos para el Estudiante
+## Retos Prácticos para el Estudiante
 1. **Personaliza los colores:** Cambia el color de fondo general de la página por tu color favorito utilizando un código hexadecimal (por ejemplo, `#fdf2e9` para tono durazno o `#ecfdf5` para tono menta).
 2. **Sombra moderna a la tarjeta:** Investiga y agrega la propiedad `box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);` dentro de `.tarjeta-perfil` para que la tarjeta parezca flotar sobre el fondo.
 3. **Efecto interactivo con pseudo-clase `:hover`:** Añade la regla `.boton-conectar:hover { background-color: #1d4ed8; }` para que el botón cambie de tono cuando pases el cursor sobre él.

@@ -4,7 +4,7 @@ Este documento contiene la solución completa, explicada y lista para producció
 
 ---
 
-## 💻 Código Completo Resuelto
+## Código Completo Resuelto
 
 A continuación se presenta el código final que transforma una estructura HTML plana en una tarjeta de perfil visualmente profesional y moderna en **CodePen**:
 
@@ -147,7 +147,7 @@ body {
 
 ---
 
-## 🖥️ Resultado Visual Esperado en el Navegador
+##  Resultado Visual Esperado en el Navegador
 
 Al visualizar la página web resultante:
 1. **Fondo suave:** La pantalla completa luce un tono gris azulado claro (`#eef2f7`), que descansa la vista y destaca el contenido central.
@@ -159,7 +159,7 @@ Al visualizar la página web resultante:
 
 ---
 
-## 🔍 Explicación Paso a Paso de las Propiedades y Selectores
+## Explicación Paso a Paso de las Propiedades y Selectores
 
 ### 1. El Selector de Etiqueta (`body`)
 * Se encarga de aplicar los estilos base a todo el documento.
