@@ -58,6 +58,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+| 6 | Consejos y Próximos Pasos | [Replit](https://youtu.be/VNTNi3iZ8Sg) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #WebDevBeginners
