@@ -1,1 +1,1 @@
-# Scripts de utilidad o ejecución
+Scripts de utilidad o ejecución

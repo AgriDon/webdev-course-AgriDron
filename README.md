@@ -37,9 +37,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/QKbj61IHYXU)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/editor/Edwin-Nicho/pen/01a1ac65-806a-72e8-b174-5d5276c0dd72) 👈 **¡Guarda y comparte!**
+- **Práctica**: [Crear una página de perfil personal](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57)
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
@@ -71,13 +72,13 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202620  
 1ASI0730 Aplicaciones Web  
-NRC [Número de NRC]  
+NRC [8137]  
 **Nombre del equipo**: AgriDron  
 **Líder del equipo**: [Nombres y Apellidos del líder]  
 **Integrantes del equipo**:  
 - [Integrante 1 - Nombres y Apellidos]  
 - [Integrante 2 - Nombres y Apellidos]  
 - [Integrante 3 - Nombres y Apellidos]  
-- [Integrante 4 - Nombres y Apellidos]  
+- [Integrante 4 - Edwin Noe Nicho Huillcañahui]  
 - [Integrante 5 - Nombres y Apellidos]  
 **Fecha de entrega**: [Fecha]
