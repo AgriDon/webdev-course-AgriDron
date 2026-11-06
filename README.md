@@ -75,7 +75,7 @@ NRC [Número de NRC]
 **Nombre del equipo**: AgriDron  
 **Líder del equipo**: [Nombres y Apellidos del líder]  
 **Integrantes del equipo**:  
-- [Integrante 1 - Nombres y Apellidos]  
+- [Integrante 1 - Italo Damacen]  
 - [Integrante 2 - Nombres y Apellidos]  
 - [Integrante 3 - Nombres y Apellidos]  
 - [Integrante 4 - Nombres y Apellidos]  

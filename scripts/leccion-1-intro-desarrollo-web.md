@@ -90,6 +90,7 @@ Objetivo: entender qué es una página web, cómo llega a tu pantalla y qué hac
 Lección 1: ¿Qué es el desarrollo web?
 Descubre de qué están hechas las páginas web: contenido (HTML) + estilo (CSS).
 
+💻 Práctica en CodePen: https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a
 ▶ Siguiente: Lección 2, Introducción a HTML: https://youtu.be/Vl414u2bYE4
 📂 Repositorio del curso: https://github.com/AgriDon/webdev-course-AgriDron
 ```
