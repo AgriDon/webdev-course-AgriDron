@@ -21,7 +21,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/Vl414u2bYE4)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/editor/pen) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b17b-43bf-70b4-abd1-16316e229606) 👈 **¡No necesitas registrarte!**
 
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | Lección # | Actividad | Empezar a Programar |
 |---|---|---|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b17b-43bf-70b4-abd1-16316e229606) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
@@ -76,7 +76,7 @@ NRC [Número de NRC]
 **Líder del equipo**: [Nombres y Apellidos del líder]  
 **Integrantes del equipo**:  
 - [Integrante 1 - Nombres y Apellidos]  
-- [Integrante 2 - Nombres y Apellidos]  
+- [Integrante 2 - Alejandro Choquehuanca]  
 - [Integrante 3 - Nombres y Apellidos]  
 - [Integrante 4 - Nombres y Apellidos]  
 - [Integrante 5 - Nombres y Apellidos]  
