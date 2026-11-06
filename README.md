@@ -25,9 +25,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/vub2qG4cP8s)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) 👈 **¡Comienza al instante!**
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
@@ -56,7 +56,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 |---|---|---|
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b17b-43bf-70b4-abd1-16316e229606) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
+| 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
 | 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
 
