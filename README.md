@@ -30,10 +30,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Práctica**: [Clic para programar](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) 👈 **¡Comienza al instante!**
 
 ### Lección 4: Introducción a CSS (12 minutos)
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Descripción**: Aprende los fundamentos de CSS para transformar una página plana en una tarjeta visualmente atractiva con colores, tipografías modernas, modelo de caja y efectos interactivos.
+- **Enlace**: [Ver la lección](https://youtu.be/xIDUW_j91-M)
+- **Consejos clave**: Anatomía `selector { propiedad: valor; }`; selectores de etiqueta y clase; centrado con `margin: 0 auto`; espaciado con `padding`; interacción con `.boton-conectar:hover`.
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) 👈 **¡No es necesario registrarse!**
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
@@ -57,8 +57,8 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b17b-43bf-70b4-abd1-16316e229606) |
 | 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
+| 4 | Estilo y tarjeta con CSS | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) |
+| 5 | Página de perfil | [CodePen](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #WebDevBeginners
@@ -79,6 +79,6 @@ NRC [8137]
 - [Integrante 1 - Italo Damacen]  
 - [Integrante 2 - Alejandro Choquehuanca]  
 - [Integrante 3 - Nombres y Apellidos]  
-- [Integrante 4 - Edwin Noe Nicho Huillcañahui]  
-- [Integrante 5 - Nombres y Apellidos]  
+- [Integrante 4 - Miguel Angel Jara Espinoza]  
+- [Integrante 5 - Edwin Noe Nicho Huillcañahui]  
 **Fecha de entrega**: [Fecha]

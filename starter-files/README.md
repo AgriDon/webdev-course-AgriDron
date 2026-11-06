@@ -86,6 +86,27 @@ Una página web que muestre una lista de videojuegos favoritos, una imagen y un 
 
 ---
 
+## Lección 4: Introducción a CSS
+
+### Objetivo
+Aprender los fundamentos de CSS: selectores, propiedades de color, fuentes, diseño de caja y estados interactivos con `:hover`.
+
+### Instrucciones
+Abre la plantilla de `lesson-4/index.html` y completa las reglas en `lesson-4/styles.css` (o usa la plantilla precargada de CodePen):
+
+1. Cambia la tipografía a una fuente limpia (*sans-serif*).
+2. Asigna color de fondo a la página y a la tarjeta.
+3. Centra la tarjeta con `margin: 0 auto` y dale esquinas redondeadas.
+4. Convierte la imagen en un avatar circular con `border-radius: 50%`.
+5. Diseña un botón con estilos modernos y efecto interactivo `:hover`.
+
+### Archivos
+- `lesson-4/index.html`: estructura semántica de la tarjeta de presentación.
+- `lesson-4/styles.css`: plantilla inicial comentada con instrucciones paso a paso.
+- `lesson-4-starter.md`: guía didáctica detallada de la lección práctica.
+
+---
+
 ## Lección 5: Página de perfil personal
 
 ### Archivos:

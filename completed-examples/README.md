@@ -61,6 +61,24 @@ Una página web que presenta una lista de videojuegos favoritos, una imagen y un
 
 ---
 
+## Lección 4: Introducción a CSS
+
+### Contenido desarrollado
+Solución completa que transforma una página HTML plana en una tarjeta de perfil visualmente profesional y moderna en CodePen.
+
+### Elementos implementados
+- Selector de etiqueta (`body`): tipografía limpia sin serifa y fondo suave.
+- Selector de clase (`.tarjeta-perfil`): contenedor con `max-width`, centrado con `margin: 0 auto`, sombras (`box-shadow`) y bordes redondeados.
+- Recorte circular (`.imagen-avatar`): avatar circular mediante `border-radius: 50%` y borde decorativo.
+- Jerarquía tipográfica: títulos oscuros, rol destacado y espaciado de lectura cómodo (`line-height`).
+- Botón interactivo: microanimaciones con pseudo-clase `:hover`.
+
+### Archivos
+- `lesson-4/index.html` y `lesson-4/styles.css`: código fuente ejecutable.
+- `lesson-4-completed.md`: guía paso a paso con explicación pedagógica del resultado visual.
+
+---
+
 ## Lección 5: Página de perfil personal
 
 El ejemplo incluye:
