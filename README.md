@@ -13,9 +13,9 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/Xlk6Rtb2RMw)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Empieza a programar**: [Open CodePen](https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a) 👈 **¡No necesitas registrarte!**
 
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
@@ -54,7 +54,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a Programar |
 |---|---|---|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a) |
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
 | 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
@@ -76,7 +76,7 @@ NRC [8137]
 **Nombre del equipo**: AgriDron  
 **Líder del equipo**: [Nombres y Apellidos del líder]  
 **Integrantes del equipo**:  
-- [Integrante 1 - Nombres y Apellidos]  
+- [Integrante 1 - Italo Damacen]  
 - [Integrante 2 - Nombres y Apellidos]  
 - [Integrante 3 - Nombres y Apellidos]  
 - [Integrante 4 - Edwin Noe Nicho Huillcañahui]  

@@ -1,0 +1,38 @@
+/* ============================================================
+   LECCIÓN 1: ¿HTML O CSS?
+   La página (index.html) ya tiene su CONTENIDO (HTML).
+   Tú vas a cambiar solo su ESTILO (CSS), sin tocar el texto.
+   Quita las dos barras y el asterisco de cada línea comentada,
+   cambia los valores y mira cómo cambia la página.
+   ============================================================ */
+
+body {
+    /* EJERCICIO 1: cambia el color de fondo (prueba: lightyellow, #FFF4E0, lightblue) */
+    /* background-color: lightyellow; */
+
+    /* EJERCICIO 2: cambia el tipo de letra (prueba: Arial, Verdana, Georgia) */
+    /* font-family: Arial, sans-serif; */
+}
+
+h1 {
+    /* EJERCICIO 3: cambia el color del título (prueba: orange, #2F6FED) */
+    /* color: orange; */
+
+    /* EJERCICIO 4: cambia el tamaño de la letra del título (prueba: 60px) */
+    /* font-size: 60px; */
+}
+
+/* Esta regla ya está lista: hace que la imagen no ocupe toda la pantalla. */
+img {
+    width: 160px;
+}
+
+button {
+    /* EJERCICIO 5: convierte el botón en el del video: rojo, redondeado y con letras blancas */
+    /* background-color: red; */
+    /* color: white; */
+    /* border-radius: 30px; */
+}
+
+/* RETO: ¿qué pasó con el texto del título y del párrafo cuando cambiaste el CSS?
+   ¡Nada! El contenido es trabajo de HTML; el estilo, de CSS. */
