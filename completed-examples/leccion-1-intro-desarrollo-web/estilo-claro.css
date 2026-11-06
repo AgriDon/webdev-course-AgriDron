@@ -1,0 +1,37 @@
+/* Ropa 1: clara, con naranja.
+   "En cascada": los estilos del body bajan a todo lo que está dentro (lo heredan). */
+body {
+    background-color: #FFF4E0;   /* color de fondo */
+    color: #1F2A44;              /* color de letra: lo heredan el título y el párrafo */
+    font-family: Arial, sans-serif;  /* tipo de letra */
+    max-width: 600px;
+    margin: 40px auto;           /* centra la página */
+    padding: 24px;
+    border: 6px solid #F2994A;   /* borde */
+    border-radius: 24px;         /* esquinas redondeadas */
+}
+
+h1 {
+    color: #F2994A;   /* este color le gana al del body: es una regla más específica */
+    font-size: 48px;  /* tamaño de letra */
+}
+
+img {
+    width: 160px;
+}
+
+a {
+    color: #2F6FED;
+    font-weight: bold;
+}
+
+/* El botón "Suscribirse" del video: rojo, redondeado y con letras blancas */
+button {
+    background-color: #E5484D;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 30px;
+}

@@ -1,0 +1,35 @@
+/* Ropa 2: oscura, con azul. Mismo HTML, otro CSS. */
+body {
+    background-color: #1F2A44;
+    color: #C9CED6;
+    font-family: Verdana, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 24px;
+    text-align: center;     /* todo centrado */
+    border-radius: 24px;
+}
+
+h1 {
+    color: white;
+    background-color: #2F6FED;
+    padding: 12px;
+    border-radius: 16px;
+}
+
+img {
+    width: 120px;
+}
+
+a {
+    color: #F2C94C;
+}
+
+button {
+    background-color: #F2994A;
+    color: #1F2A44;
+    font-size: 20px;
+    padding: 12px 28px;
+    border: none;
+    border-radius: 8px;
+}
