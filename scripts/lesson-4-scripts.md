@@ -247,3 +247,15 @@ body {
 > En la siguiente lección, combinaremos todo lo aprendido en HTML y CSS para construir un proyecto completo paso a paso.
 >
 > No olvides guardar tu trabajo en CodePen. ¡Nos vemos en el próximo video!"
+
+---
+
+## 📝 Descripción del video (YouTube, no listado)
+
+```text
+Lección 4: Introducción a CSS
+Aprende los fundamentos de CSS: selectores, propiedades, colores, tipografía, modelo de caja y efectos interactivos (:hover).
+
+💻 Práctica en CodePen: https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0
+📂 Repositorio del curso: https://github.com/AgriDon/webdev-course-AgriDron
+```
