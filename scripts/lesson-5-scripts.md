@@ -206,7 +206,7 @@ Combinar los conceptos de las lecciones anteriores para construir una página de
 
 > “Ahora creamos una sección con section para agrupar la presentación. Le damos el título Sobre mí utilizando h2.
 >
-> Usamos h1 para el título principal y h2 para los apartados. Debajo colocamos un párrafo con una descripción breve.
+> Usamos h1 para el título principal y h2 para las secciones. Debajo colocamos un párrafo con una descripción breve.
 >
 > Ya tenemos fotografía, nombre y presentación. La página todavía se ve básica porque primero estamos organizando el contenido con HTML. Más adelante cambiaremos su apariencia con CSS.”
 
@@ -580,5 +580,39 @@ tarjeta {
 > “Por último, revisamos las llaves. Estas delimitan las propiedades de cada regla. Si las quitamos, el navegador puede dejar de interpretar los estilos como esperamos.
 >
 > Restauramos las llaves y comprobamos que el perfil vuelva a verse correctamente. Eso sería todo por la lección número cinco. ¡Hasta la próxima!”
+
+---
+
+## Descripción del video (YouTube, no listado)
+
+```text
+Lección 5: Crear una página web sencilla (Página de perfil personal)
+Combina HTML y CSS para construir una tarjeta de perfil personal completa paso a paso con fotografía, presentación, pasatiempos, enlaces externos, estilos modernos y depuración de errores frecuentes.
+
+Marcas de tiempo:
+00:00 Carátula e Introducción
+00:05 Presentación del proyecto final
+00:34 Entorno de trabajo y archivos iniciales en CodePen
+01:51 Estructura HTML: Contenedor y contenido principal
+02:24 Encabezado y fotografía
+03:38 Nombre y subtítulo
+04:07 Sección "Sobre mí"
+05:00 Lista de pasatiempos
+05:57 Enlaces educativos
+07:19 Pie de página
+07:46 Transición a CSS y estilos generales del body
+09:24 Márgenes y espacios de la página
+09:53 Diseño de la tarjeta (ancho, centrado, fondo)
+11:33 Bordes redondeados y sombra
+12:35 Foto circular y encabezado centrado
+13:31 Estilos de títulos (h1, h2)
+14:17 Estilo del subtítulo
+15:02 Separación de secciones, enlaces y pie de página
+16:39 Resultado final y revisión de errores comunes
+
+💻 Práctica inicial en CodePen: https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57
+✨ Proyecto terminado en CodePen: https://codepen.io/editor/Edwin-Nicho/pen/01a1ac65-806a-72e8-b174-5d5276c0dd72
+📂 Repositorio del curso: https://github.com/AgriDon/webdev-course-AgriDron
+```
 
 ---
