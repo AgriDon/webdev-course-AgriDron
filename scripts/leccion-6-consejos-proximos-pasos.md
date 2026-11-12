@@ -118,7 +118,7 @@ Aprende las mejores prácticas para escribir código limpio, descubre cómo enco
 07:15 Próximos pasos: JavaScript, diseño responsivo y proyectos propios
 08:30 Mensaje final y cierre del curso
 
-💻 Práctica en CodePen (Actividad «Encuentra el error»): https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a
+💻 Práctica en CodePen (Actividad «Encuentra el error»): https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1cd1a-e5e4-7bf5-a1ff-8959a8f22d73
 📂 Repositorio con todo el código fuente del curso: https://github.com/AgriDon/webdev-course-AgriDron
 ```
 

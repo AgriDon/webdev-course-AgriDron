@@ -59,7 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
 | 4 | Estilo y tarjeta con CSS | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) |
 | 5 | Página de perfil | [CodePen](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57) |
-| 6 | Consejos y Próximos Pasos | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
+| 6 | Consejos y Próximos Pasos | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1cd1a-e5e4-7bf5-a1ff-8959a8f22d73) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #WebDevBeginners
