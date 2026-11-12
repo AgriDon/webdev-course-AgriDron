@@ -46,7 +46,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Descripción**: Mejores prácticas de código limpio, depuración de errores comunes en HTML y CSS, uso de herramientas profesionales del navegador (DevTools) y próximos pasos en tu formación web.
 - **Enlace**: [Ver la lección](https://youtu.be/VNTNi3iZ8Sg)
 - **Consejos clave**: Sangría ordenada, etiquetas cerradas, clases con punto en CSS, inspección con F12 y consulta en MDN Web Docs.
-- **Práctica**: [Actividad «Encuentra el error»](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) 👈 **¡Acepta el reto!**
+- **Práctica**: [Actividad «Encuentra el error»](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1cd1a-e5e4-7bf5-a1ff-8959a8f22d73) 👈 **¡Acepta el reto!**
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/AgriDon/webdev-course-AgriDron)

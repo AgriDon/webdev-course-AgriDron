@@ -1,6 +1,7 @@
 # Lección 6: Consejos y Próximos Pasos (10 minutos)
 
 * **Video:** https://youtu.be/VNTNi3iZ8Sg
+* **Práctica en CodePen:** https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1cd1a-e5e4-7bf5-a1ff-8959a8f22d73
 * **Duración planificada:** 10:00 minutos.
 * **Duración de la versión grabada:** 09:25 minutos.
 * **Público objetivo:** Estudiantes de secundaria de 12 a 17 años que han seguido el curso básico de HTML y CSS.
