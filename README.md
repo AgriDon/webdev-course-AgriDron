@@ -13,39 +13,40 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección](https://youtu.be/Xlk6Rtb2RMw)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter)
+- **Empieza a programar**: [Open CodePen](https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a) 👈 **¡No necesitas registrarte!**
 
 ### Lección 2: Introducción a HTML (10 minutos)
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección](https://youtu.be/Vl414u2bYE4)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b17b-43bf-70b4-abd1-16316e229606) 👈 **¡No necesitas registrarte!**
 
 ### Lección 3: Añadir más elementos HTML (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/vub2qG4cP8s)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) 👈 **¡Comienza al instante!**
 
 ### Lección 4: Introducción a CSS (12 minutos)
-- **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
-- **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Descripción**: Aprende los fundamentos de CSS para transformar una página plana en una tarjeta visualmente atractiva con colores, tipografías modernas, modelo de caja y efectos interactivos.
+- **Enlace**: [Ver la lección](https://youtu.be/xIDUW_j91-M)
+- **Consejos clave**: Anatomía `selector { propiedad: valor; }`; selectores de etiqueta y clase; centrado con `margin: 0 auto`; espaciado con `padding`; interacción con `.boton-conectar:hover`.
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) 👈 **¡No es necesario registrarse!**
 
 ### Lección 5: Crear una página web sencilla (15 minutos)
 - **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección](https://youtu.be/QKbj61IHYXU)
 - **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/editor/Edwin-Nicho/pen/01a1ac65-806a-72e8-b174-5d5276c0dd72) 👈 **¡Guarda y comparte!**
+- **Práctica**: [Crear una página de perfil personal](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57)
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://youtu.be/VNTNi3iZ8Sg)
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-
+- **Descripción**: Mejores prácticas de código limpio, depuración de errores comunes en HTML y CSS, uso de herramientas profesionales del navegador (DevTools) y próximos pasos en tu formación web.
+- **Enlace**: [Ver la lección](https://youtu.be/VNTNi3iZ8Sg)
+- **Consejos clave**: Sangría ordenada, etiquetas cerradas, clases con punto en CSS, inspección con F12 y consulta en MDN Web Docs.
+- **Práctica**: [Actividad «Encuentra el error»](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) 👈 **¡Acepta el reto!**
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/AgriDon/webdev-course-AgriDron)
@@ -53,12 +54,12 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a Programar |
 |---|---|---|
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) |
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) |
-| 6 | Consejos y Próximos Pasos | [Replit](https://youtu.be/VNTNi3iZ8Sg) |
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/editor/Italo-Damacen/pen/01a1ae4a-b04f-7fad-8584-e02d43dade4a) |
+| 2 | Primera página HTML | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b17b-43bf-70b4-abd1-16316e229606) |
+| 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
+| 4 | Estilo y tarjeta con CSS | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) |
+| 5 | Página de perfil | [CodePen](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57) |
+| 6 | Consejos y Próximos Pasos | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #WebDevBeginners
@@ -72,13 +73,13 @@ Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software  
 Período 202620  
 1ASI0730 Aplicaciones Web  
-NRC [Número de NRC]  
+NRC [8137]  
 **Nombre del equipo**: AgriDron  
 **Líder del equipo**: [Nombres y Apellidos del líder]  
 **Integrantes del equipo**:  
-- [Integrante 1 - Nombres y Apellidos]  
-- [Integrante 2 - Nombres y Apellidos]  
-- [Integrante 3 - Nombres y Apellidos]  
-- [Integrante 4 - Nombres y Apellidos]  
-- [Integrante 5 - Nombres y Apellidos]  
+- [Integrante 1 - Italo Damacen]  
+- [Integrante 2 - Alejandro Choquehuanca]  
+- [Integrante 3 - Alexander Daniel Vásquez]  
+- [Integrante 4 - Miguel Angel Jara Espinoza]  
+- [Integrante 5 - Edwin Noe Nicho Huillcañahui]  
 **Fecha de entrega**: [Fecha]
