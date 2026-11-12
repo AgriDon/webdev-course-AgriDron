@@ -1,0 +1,16 @@
+# IDEs y editores
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Dependencias y temporales
+node_modules/
+dist/
+build/
+
+# Logs y SO
+*.log
+.DS_Store
+Thumbs.db

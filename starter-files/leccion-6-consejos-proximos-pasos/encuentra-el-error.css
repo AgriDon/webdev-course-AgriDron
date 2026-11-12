@@ -1,0 +1,58 @@
+/* ========================================================
+   Actividad Práctica: Encuentra y corrige los errores
+   Lección 6: Consejos y Próximos Pasos
+   ======================================================== */
+
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background-color: #f3e8ff;
+  color: #1f2937;
+  line-height: 1.6;
+  margin: 0;
+  padding: 32px 16px;
+}
+
+.tarjeta {
+  max-width: 420px;
+  margin: 0 auto;
+  padding: 28px;
+  background-color: #ffffff;
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
+
+/* ERROR CSS 1: ¿Por qué este selector no le aplica estilo a <h1 class="titulo-perfil">?
+   Pista: Recuerda qué símbolo obligatorio debe anteponerse al nombre de una clase en CSS. */
+titulo-perfil {
+  color: #6b21a8;
+  font-size: 28px;
+  margin-top: 0;
+  margin-bottom: 12px;
+}
+
+h2 {
+  color: #7c3aed;
+  font-size: 20px;
+  margin-top: 24px;
+  margin-bottom: 8px;
+}
+
+ul {
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+li {
+  margin-bottom: 6px;
+}
+
+/* ERRORES CSS 2 y 3: Revisa la ortografía de la propiedad y el signo delimitador al final.
+   Pista: ¿Cómo se escribe 'color' en CSS? ¿Qué signo debe cerrar siempre cada propiedad? */
+.frase-favorita {
+  font-style: italic;
+  colr: #6b21a8
+  background-color: #faf5ff;
+  padding: 10px 14px;
+  border-radius: 8px;
+  border-left: 4px solid #a855f7;
+}
