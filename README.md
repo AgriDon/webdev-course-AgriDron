@@ -43,10 +43,10 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - **Práctica**: [Crear una página de perfil personal](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57)
 
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+- **Descripción**: Mejores prácticas de código limpio, depuración de errores comunes en HTML y CSS, uso de herramientas profesionales del navegador (DevTools) y próximos pasos en tu formación web.
+- **Enlace**: [Ver la lección](https://youtu.be/VNTNi3iZ8Sg)
+- **Consejos clave**: Sangría ordenada, etiquetas cerradas, clases con punto en CSS, inspección con F12 y consulta en MDN Web Docs.
+- **Práctica**: [Actividad «Encuentra el error»](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) 👈 **¡Acepta el reto!**
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/AgriDon/webdev-course-AgriDron)
@@ -59,6 +59,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 | 3 | Añadir imágenes y listas | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1b19a-9e0d-70c2-a71e-e373bdc6c24a) |
 | 4 | Estilo y tarjeta con CSS | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a198fd-c3e1-79eb-b8a1-015dcb40f0c0) |
 | 5 | Página de perfil | [CodePen](https://codepen.io/editor/Edwin-Nicho/pen/01a1ad56-4676-7325-b518-33e942d3ce57) |
+| 6 | Consejos y Próximos Pasos | [CodePen](https://codepen.io/editor/Miguel-Jara-the-scripter/pen/01a1cd1a-e5e4-7bf5-a1ff-8959a8f22d73) |
 
 - **Cuestionario**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #WebDevBeginners
@@ -78,7 +79,7 @@ NRC [8137]
 **Integrantes del equipo**:  
 - [Integrante 1 - Italo Damacen]  
 - [Integrante 2 - Alejandro Choquehuanca]  
-- [Integrante 3 - Nombres y Apellidos]  
+- [Integrante 3 - Alexander Daniel Vásquez]  
 - [Integrante 4 - Miguel Angel Jara Espinoza]  
 - [Integrante 5 - Edwin Noe Nicho Huillcañahui]  
 **Fecha de entrega**: [Fecha]

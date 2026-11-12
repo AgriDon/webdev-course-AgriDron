@@ -121,3 +121,23 @@ Abre la plantilla de `lesson-4/index.html` y completa las reglas en `lesson-4/st
 4. Sigue el video para construir el perfil paso a paso.
 
 No es necesario instalar programas. El ejemplo completo del video está en la carpeta `completed-examples`.
+
+---
+
+## Lección 6: Consejos y Próximos Pasos
+
+### Objetivo
+Aprender a depurar errores comunes en HTML y CSS y aplicar buenas prácticas de código limpio mediante la actividad «Encuentra y corrige el error».
+
+### Archivos:
+- `leccion-6-consejos-proximos-pasos/index.html`: estructura de la tarjeta de perfil con errores a detectar.
+- `leccion-6-consejos-proximos-pasos/encuentra-el-error.css`: hoja de estilos con pistas y errores de selectores y sintaxis.
+
+### Instrucciones:
+1. Abre `leccion-6-consejos-proximos-pasos/index.html` y `encuentra-el-error.css` en tu navegador o en CodePen.
+2. Encuentra la etiqueta HTML que se abrió y no se cerró (`<strong>`).
+3. Corrige el selector de clase en CSS agregando el punto obligatorio (`.titulo-perfil`).
+4. Corrige el nombre de la propiedad mal escrita (`colr` -> `color`) y agrega el punto y coma (`;`) faltante.
+
+### Resultado esperado:
+Una tarjeta de perfil limpia, con el título morado, el nombre destacado correctamente y la frase favorita estilizada.

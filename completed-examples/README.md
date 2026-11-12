@@ -96,3 +96,19 @@ Abre el editor en línea de la práctica y coloca el contenido de `index.html` y
 Compara este resultado con tu práctica para revisar diferencias y corregir errores.
 
 Los archivos de partida están en la carpeta `starter-files`.
+
+---
+
+## Lección 6: Consejos y Próximos Pasos
+
+Solución completa de la actividad «Encuentra y corrige el error», donde se resuelven los errores más habituales de principiantes en HTML y CSS.
+
+### Errores corregidos y explicados:
+1. **Etiqueta HTML no cerrada (`<strong>`):** Se cerró adecuadamente con `</strong>` para evitar que todo el párrafo continúe en negrita.
+2. **Selector de clase CSS sin punto (`.titulo-perfil`):** Se antepuso el punto (`.`) para vincular la regla de estilo con la clase de HTML.
+3. **Nombre de propiedad erróneo (`colr` -> `color`):** Corrección ortográfica para que el navegador interprete la propiedad.
+4. **Falta de punto y coma (`;`):** Se añadió el delimitador para garantizar que las declaraciones siguientes se procesen sin fallas.
+
+### Archivos:
+- `leccion-6-consejos-proximos-pasos/index.html`: documento HTML validado y corregido.
+- `leccion-6-consejos-proximos-pasos/encuentra-el-error-solucion.css`: hoja de estilos comentada con la justificación de cada solución.
